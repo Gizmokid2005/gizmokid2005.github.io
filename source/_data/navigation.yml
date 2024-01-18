@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: The Project
+  link: /project/
+- name: News Archives
+  link: /news/
+- name: Help
+  link: /help/
+- name: About
+  link: /about/

@@ -1,0 +1,17 @@
+---
+layout: post
+status: publish
+published: true
+title: "KVIrc 5.0.0 \"Aria\" Released"
+date: '2019-01-01 23:50:00 -0000'
+---
+It took quite some time, but here it is: an official stable 5.0.0.
+
+Since the beta1 release several bugs were fixed and the codebase has been polished a quite lot. The last stable release was more than six years ago, so the changes are really too many to be listed. You're encouraged to upgrade and just try it out.
+
+Grab the sources from [the ftp server](ftp://ftp.kvirc.net/pub/kvirc/5.0.0/source/KVIrc-5.0.0.tar.bz2). Binary packages in various forms are available [here](https://github.com/kvirc/KVIrc/wiki/Downloading-KVIrcs-nightly-source-or-binaries).
+
+Most prominent contributors to this release are IceN9ne, wodim, Stanzilla, DarthGandalf, Dessa, staticfox, AndrioCelos, craftwar, un1versal and AlexanderP: Honor and Glory! :) As usual, developers hang around #kvirc@Libera. **[Come in](irc://irc.libera.chat/kvirc) and say hi!**
+
+*Happy New Year and Have Fun on IRC! :)  
+The KVIrc Development Team*

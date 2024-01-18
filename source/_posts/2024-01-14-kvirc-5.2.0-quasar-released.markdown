@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: "KVIrc 5.2.0 \"Quasar\" Released"
+date: '2024-01-14 19:25:00 -0000'
+---
+<img src="{{ site.url }}/assets/images/splashes/5.2.0.png" title="KVIrc 5.2.0"><br>
+
+It again took quite a while, but we have an official stable 5.2.0.
+
+This release contains changes from the last 5 years of development, including:
+
+- Support for the latest version of upstream libraries: Qt5.15/6.6, KDE5/6, OpenSSL 1.x/3.x
+- Wayland support
+- Fix for some nasty crash bugs
+- an improved font rendering engine able to represent complex characters like emojis with ligatures
+- a reworked tray icon that now follows your OS style
+- better support for solanum ircd (Libera net)
+
+Source code, windows and mac binaries are available [here](https://github.com/kvirc/KVIrc/releases/tag/5.2.0). Binary packages for your favorite linux distribution should be available in the next days.
+
+All of the work has been done by our mighty team members. For pure development work you can take a look at the commit statistics here. But the team also includes packagers, bug hunters and general supporters. Honor and Glory to All of Them! :)
+
+Many of the team members hang out on #kvirc@libera. [Come in](irc://irc.libera.chat/kvirc) and say hi!
+
+*Have Fun on IRC! :)  
+The KVIrc Development Team*

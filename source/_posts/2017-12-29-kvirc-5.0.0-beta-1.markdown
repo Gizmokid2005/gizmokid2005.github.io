@@ -1,0 +1,15 @@
+---
+layout: post
+status: publish
+published: true
+title: "KVIrc 5.0.0 Beta 1 Released"
+date: '2017-12-29 12:55:00 -0000'
+---
+After some years and a couple of alpha releases we now have a beta of 5.0.0. Well.. it's marked "beta" but you'll probably find it pretty much stable.
+
+Grab the sources from [the ftp server](ftp://ftp.kvirc.net/pub/kvirc/5.0.0-beta1/source/kvirc-5.0.0-beta1.tar.bz2). Binary packages in various forms are available [here](https://github.com/kvirc/KVIrc/wiki/Downloading-KVIrcs-nightly-source-or-binaries). Please note that the binaries may be marked with the internal version 4.9.3.
+
+Several people have worked on the codebase and ultimately on this release. Many of them hang daily around #kvirc@libera. **[Come](irc://irc.libera.chat/kvirc) and say Hi!**
+
+*Happy New Year and Have Fun on IRC! :)  
+The KVIrc Development Team*
